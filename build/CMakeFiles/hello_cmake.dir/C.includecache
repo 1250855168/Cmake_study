@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/CHENMENG/Desktop/C/src/hello.c
+stdio.h
+-
+
+C:/Users/CHENMENG/Desktop/C/src/main.c
+include/hello.h
+C:/Users/CHENMENG/Desktop/C/src/include/hello.h
+
