@@ -2,6 +2,6 @@
  
  int main()
  {
-  hello("everyone");
+  hello("static Libaray!");
   return 0;
  }

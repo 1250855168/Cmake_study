@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/CHENMENG/Desktop/C/2.0Cmake/build",
+  "command": "G:\\Work_code\\x86_64-8.1.0-release-win32-seh-rt_v6-rev0\\mingw64\\bin\\gcc.exe  @CMakeFiles/hello_library.dir/includes_C.rsp -g   -o CMakeFiles\\hello_library.dir\\src\\hello.c.obj   -c C:\\Users\\CHENMENG\\Desktop\\C\\2.0Cmake\\src\\hello.c",
+  "file": "C:/Users/CHENMENG/Desktop/C/2.0Cmake/src/hello.c"
+},
+{
+  "directory": "C:/Users/CHENMENG/Desktop/C/2.0Cmake/build",
+  "command": "G:\\Work_code\\x86_64-8.1.0-release-win32-seh-rt_v6-rev0\\mingw64\\bin\\gcc.exe  @CMakeFiles/hello_binary.dir/includes_C.rsp -g   -o CMakeFiles\\hello_binary.dir\\main.c.obj   -c C:\\Users\\CHENMENG\\Desktop\\C\\2.0Cmake\\main.c",
+  "file": "C:/Users/CHENMENG/Desktop/C/2.0Cmake/main.c"
+}
+]

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/CHENMENG/Desktop/C/2.0Cmake/include/hello.h
+
+C:/Users/CHENMENG/Desktop/C/2.0Cmake/main.c
+include/hello.h
+C:/Users/CHENMENG/Desktop/C/2.0Cmake/include/hello.h
+
