@@ -1,0 +1,4 @@
+/mnt/c/Users/CHENMENG/Desktop/C/3.0Cmake/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/CHENMENG/Desktop/C/3.0Cmake/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/CHENMENG/Desktop/C/3.0Cmake/build/CMakeFiles/hello_binary.dir
+/mnt/c/Users/CHENMENG/Desktop/C/3.0Cmake/build/CMakeFiles/hello_library.dir

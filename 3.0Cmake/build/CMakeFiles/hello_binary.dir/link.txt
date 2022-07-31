@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/hello_binary.dir/main.c.o  -o hello_binary  -Wl,-rpath,/mnt/c/Users/CHENMENG/Desktop/C/3.0Cmake/build libhello_library.so 
