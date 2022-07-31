@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/mnt/c/Users/CHENMENG/Desktop/C/3.0Cmake/main.c" "/mnt/c/Users/CHENMENG/Desktop/C/3.0Cmake/build/CMakeFiles/hello_binary.dir/main.c.o"
+  "C:/Users/CHENMENG/Desktop/C/3.0Cmake/main.c" "C:/Users/CHENMENG/Desktop/C/3.0Cmake/build/CMakeFiles/hello_binary.dir/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
@@ -15,7 +15,7 @@ set(CMAKE_C_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/mnt/c/Users/CHENMENG/Desktop/C/3.0Cmake/build/CMakeFiles/hello_library.dir/DependInfo.cmake"
+  "C:/Users/CHENMENG/Desktop/C/3.0Cmake/build/CMakeFiles/hello_library.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

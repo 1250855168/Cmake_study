@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/hello_binary.dir/main.c.o"
-  "hello_binary"
+  "CMakeFiles/hello_binary.dir/main.c.obj"
   "hello_binary.pdb"
+  "hello_binary.exe"
+  "hello_binary.exe.manifest"
+  "libhello_binary.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
