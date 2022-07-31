@@ -40,14 +40,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "hello_binary::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-hello_binary-Debug-f09ee2dab4eb99258a89.json",
+					"jsonFile" : "target-hello_binary-Debug-dea5c4e467aef590604c.json",
 					"name" : "hello_binary",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "hello_library::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-hello_library-Debug-81fa356e5dcc45d518f3.json",
+					"jsonFile" : "target-hello_library-Debug-bae87865441edb83b936.json",
 					"name" : "hello_library",
 					"projectIndex" : 0
 				}
