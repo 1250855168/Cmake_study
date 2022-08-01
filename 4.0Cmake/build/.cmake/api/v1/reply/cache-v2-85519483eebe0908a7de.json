@@ -23,7 +23,7 @@
 			[
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "Choose the type of build, options are: None Debug Release RelWithDebInfo MinSizeRel ..."
 				}
 			],
 			"type" : "STRING",
@@ -39,7 +39,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/CHENMENG/Desktop/C/1.0Cmake/build"
+			"value" : "c:/Users/CHENMENG/Desktop/C/4.0Cmake/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -615,7 +615,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/CHENMENG/Desktop/C/1.0Cmake"
+			"value" : "C:/Users/CHENMENG/Desktop/C/4.0Cmake"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -627,7 +627,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/hello_cmake"
+			"value" : "C:/Program Files (x86)/cmake_build_type"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -847,7 +847,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "hello_cmake"
+			"value" : "cmake_build_type"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1226,7 +1226,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "hello_cmake_BINARY_DIR",
+			"name" : "cmake_build_type_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1235,10 +1235,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/CHENMENG/Desktop/C/1.0Cmake/build"
+			"value" : "C:/Users/CHENMENG/Desktop/C/4.0Cmake/build"
 		},
 		{
-			"name" : "hello_cmake_SOURCE_DIR",
+			"name" : "cmake_build_type_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1247,7 +1247,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/CHENMENG/Desktop/C/1.0Cmake"
+			"value" : "C:/Users/CHENMENG/Desktop/C/4.0Cmake"
 		}
 	],
 	"kind" : "cache",
